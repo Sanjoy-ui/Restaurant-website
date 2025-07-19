@@ -1,6 +1,6 @@
 # 🍽️ Restaurant Website
 
-A modern, responsive restaurant website built with HTML, CSS, and JavaScript. This project showcases a sleek UI with sections like Hero, Menu, About, Gallery, and Contact.
+A modern, responsive restaurant website built with HTML, CSS . This project showcases a sleek UI with sections like Hero, Menu, About, Gallery, and Contact.
 
 <!-- > 🚀 Live Preview: [View Website](https://sanjoy-ui.github.io/Restaurant-website) -->
 
