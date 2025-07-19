@@ -21,7 +21,6 @@ A modern, responsive restaurant website built with HTML, CSS . This project show
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
 
 ---
 
