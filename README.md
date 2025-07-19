@@ -43,23 +43,10 @@ Restaurant-website/
 
 ## 📸 Screenshots
 
-![Homepage Preview](https://your-image-url-if-any.jpg) <!-- optional -->
-*(Replace with actual screenshot if available)*
+![Homepage Preview](./screenshot/ss1.png) <!-- optional -->
+![Homepage Preview](./screenshot/ss2.png) <!-- optional -->
+![Homepage Preview](./screenshot/ss3.png) <!-- optional -->
 
----
-
-## 🚧 Status
-
-✅ Completed – Minor UI improvements possible
-
----
-
-## 💡 Future Improvements
-
-- Integrate a working backend for the contact form
-- Add animation effects with AOS or GSAP
-- Add menu filtering functionality
-- Improve accessibility (ARIA roles, etc.)
 
 ---
 
@@ -71,8 +58,6 @@ Restaurant-website/
 
 ---
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
 
 
