@@ -6,7 +6,7 @@ A modern, responsive restaurant website built with HTML, CSS . This project show
 
 ---
 
-## 🖼️ Features
+## Features
 
 - 🔥 Clean and aesthetic UI
 - 📱 Fully responsive 
